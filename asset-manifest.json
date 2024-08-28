@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/buzzvel_joaopedrocarvalho/static/css/main.63636ef4.css",
+    "main.js": "/buzzvel_joaopedrocarvalho/static/js/main.6ca266c0.js",
+    "static/js/453.dd53e008.chunk.js": "/buzzvel_joaopedrocarvalho/static/js/453.dd53e008.chunk.js",
+    "static/media/coma.webp": "/buzzvel_joaopedrocarvalho/static/media/coma.739b603fcbc743142ea2.webp",
+    "static/media/matrix_bg.jpg": "/buzzvel_joaopedrocarvalho/static/media/matrix_bg.36fd1b21350274a1896c.jpg",
+    "static/media/vigias.webp": "/buzzvel_joaopedrocarvalho/static/media/vigias.fc760d1935d9c9a7c150.webp",
+    "static/media/portugal.webp": "/buzzvel_joaopedrocarvalho/static/media/portugal.9911d87e8f5beec1daf7.webp",
+    "static/media/hotspotty.webp": "/buzzvel_joaopedrocarvalho/static/media/hotspotty.a275fb91ddeec711d0c2.webp",
+    "static/media/think.webp": "/buzzvel_joaopedrocarvalho/static/media/think.71f845198594fdaa695e.webp",
+    "static/media/misscan.webp": "/buzzvel_joaopedrocarvalho/static/media/misscan.f2ce3b7cdd051149f11b.webp",
+    "static/media/viplant.webp": "/buzzvel_joaopedrocarvalho/static/media/viplant.bfbe21ce60ea308189a8.webp",
+    "static/media/photo.jpeg": "/buzzvel_joaopedrocarvalho/static/media/photo.ad631f874bbb85fa6ec3.jpeg",
+    "static/media/dbs.webp": "/buzzvel_joaopedrocarvalho/static/media/dbs.da0c4195c4563ea4d3cc.webp",
+    "static/media/traquinices.webp": "/buzzvel_joaopedrocarvalho/static/media/traquinices.b1ca28ef245e7effff3a.webp",
+    "static/media/slick.svg": "/buzzvel_joaopedrocarvalho/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/buzzvel_joaopedrocarvalho/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/buzzvel_joaopedrocarvalho/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/buzzvel_joaopedrocarvalho/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/buzzvel_joaopedrocarvalho/index.html",
+    "main.63636ef4.css.map": "/buzzvel_joaopedrocarvalho/static/css/main.63636ef4.css.map",
+    "main.6ca266c0.js.map": "/buzzvel_joaopedrocarvalho/static/js/main.6ca266c0.js.map",
+    "453.dd53e008.chunk.js.map": "/buzzvel_joaopedrocarvalho/static/js/453.dd53e008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63636ef4.css",
+    "static/js/main.6ca266c0.js"
+  ]
+}
