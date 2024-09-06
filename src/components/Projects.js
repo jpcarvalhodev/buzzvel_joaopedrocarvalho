@@ -1,6 +1,6 @@
 import React from "react";
 import Slider from "react-slick";
-import { motion } from "framer-motion"; // Importa o Framer Motion
+import { motion } from "framer-motion";
 import viplant from "../assets/images/viplant.webp";
 import traquinices from "../assets/images/traquinices.webp";
 import dbs from "../assets/images/dbs.webp";
